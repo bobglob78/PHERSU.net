@@ -29,7 +29,7 @@ The work is equal parts a travelogue, a game, an exercise in digital storytellin
 
 Once inside [phersu.net](https://phersu.net), the homepage evokes a stratified landscape: sky, forest, water. From there, visible and invisible paths branch.
 
-<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/9b771416-cc0c-4b85-9f08-afadaf7fb0db" />
+<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/e695112b-d12e-4864-b6a5-750052e6b6dc" />
 
 Three of those paths:
 
