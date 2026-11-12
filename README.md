@@ -5,6 +5,7 @@
 by Sébastien Durand & Denise Padrón Benítez
 
 **[phersu.net](https://phersu.net)**.
+<img width="1383" height="842" alt="!!!!!!!0004" src="https://github.com/user-attachments/assets/a3e73387-4abc-4513-accd-cac858d12cda" />
 
 
 This repository is a gate to the piece: a presentation of what it is, where it has been shown, and how it can be installed. It is not the website, and it is not a map of the labyrinth. The source is not published here.
