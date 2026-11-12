@@ -1,3 +1,4 @@
+
 # PHERSU
 
 **Exercitia Spiritualia Animae II**  
@@ -8,10 +9,14 @@ by Sébastien Durand & Denise Padrón Benítez
 
 This repository is a gate to the piece: a presentation of what it is, where it has been shown, and how it can be installed. It is not the website, and it is not a map of the labyrinth. The source is not published here.
 
-<img width="1292" height="591" alt="01m" src="https://github.com/user-attachments/assets/c8c29b07-4c36-4f74-8b89-30708be85512" />
 
-<img width="2213" height="814" alt="2026-03-12_20-55-43" src="https://github.com/user-attachments/assets/50039701-6502-40e3-9a48-c7e4bbccb7e5" /><img width="965" height="768" alt="2026-11-12_14-50-52" src="https://github.com/user-attachments/assets/39db389d-64c5-43a5-8da4-4d702efac3ad" />
 
+<img width="965" height="768" alt="2026-11-12_14-50-52" src="https://github.com/user-attachments/assets/b1a17484-3d30-45e4-aae5-ed5a76ccf472" />
+
+
+<img width="1438" height="969" alt="2026-02-23_12-12-59" src="https://github.com/user-attachments/assets/2e8f8e96-74f1-44c0-a241-273dba4038c1" />
+
+<img width="1240" height="859" alt="2026-02-21_12-18-46" src="https://github.com/user-attachments/assets/e8792c72-6ad9-45f2-9636-65b1ce43b087" />
 
 
 ## Introduction
@@ -49,7 +54,7 @@ The site is a playful and serious bridge between the physical and the digital, r
 
 It is a collection of HTML experiences, interconnected by hyperlinks that are more or less visible. The visitor makes their own way by scrolling, typing, clicking, hovering, and staying.
 
-<img width="1188" height="807" alt="imgs02" src="https://github.com/user-attachments/assets/8d8d0c14-86a1-4dfc-8a40-0bf598eeebbf" />
+<img width="1321" height="895" alt="2026-02-18_17-21-50" src="https://github.com/user-attachments/assets/a2d1bbec-881c-4152-ae65-5cc061cc4323" />
 
 
 ## Some of the pages
@@ -105,7 +110,7 @@ A play with the information one can derive from official ways of proving identit
 
 ## The branches
 
-<img width="3920" height="2660" alt="!_contact_sheet_over_MAP_v2" src="https://github.com/user-attachments/assets/09b4b6c5-e3f2-4052-9313-f9fc434b581f" />
+<img width="1334" height="942" alt="2026-02-18_17-20-29" src="https://github.com/user-attachments/assets/3f0b7131-075e-4be6-a325-3e110c445e54" />
 
 
 ### Expanded Hours
