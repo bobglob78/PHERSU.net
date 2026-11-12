@@ -11,15 +11,6 @@ by Sébastien Durand & Denise Padrón Benítez
 This repository is a gate to the net-art piece PHERSU.net: a presentation of what it is, where it has been shown, and how it can be installed. 
 It is not the website, and it is not its source code.
 
-
-<img width="965" height="768" alt="2026-11-12_14-50-52" src="https://github.com/user-attachments/assets/b1a17484-3d30-45e4-aae5-ed5a76ccf472" />
-
-
-<img width="1438" height="969" alt="2026-02-23_12-12-59" src="https://github.com/user-attachments/assets/2e8f8e96-74f1-44c0-a241-273dba4038c1" />
-
-<img width="1240" height="859" alt="2026-02-21_12-18-46" src="https://github.com/user-attachments/assets/e8792c72-6ad9-45f2-9636-65b1ce43b087" />
-
-
 ## Introduction
 
 PHERSU is the second chapter of the planned triptych *Exercitia Spiritualia Animae*. The project explores the subconscious (dreams), the conscious (persona), and the unconscious (shadows) in three freestanding chapters.
@@ -30,12 +21,15 @@ PHERSU took its form as a labyrinth-like website during the art residency EXPAND
 
 The work is equal parts a travelogue, a game, an exercise in digital storytelling, and e-poetry. It is a collage, a synthesis of things read, seen, and found. Most of all, it is an experiment in self-projection into cyberspace, and in the interactivity between the inner and the outer, the flesh and the screen.
 
-<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/9b771416-cc0c-4b85-9f08-afadaf7fb0db" />
+
+<img width="965" height="768" alt="2026-11-12_14-50-52" src="https://github.com/user-attachments/assets/b1a17484-3d30-45e4-aae5-ed5a76ccf472" />
 
 
 ## Entering
 
 Once inside [phersu.net](https://phersu.net), the homepage evokes a stratified landscape: sky, forest, water. From there, visible and invisible paths branch.
+
+<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/9b771416-cc0c-4b85-9f08-afadaf7fb0db" />
 
 Three of those paths:
 
@@ -118,19 +112,23 @@ A play with the information one can derive from official ways of proving identit
 
 The clouds open up. This branch explores development over time, and stays close to the earth. It reads the Peloponnese as an emotional landscape, imagines it as a psyche, and explores its outermost textures.
 
-<!-- ![Expanded Hours](images/expanded-hours.png) -->
+<img width="1240" height="859" alt="2026-02-21_12-18-46" src="https://github.com/user-attachments/assets/e8792c72-6ad9-45f2-9636-65b1ce43b087" />
 
 ### Laconian Avatars
 
 The landscape is its own complex character. Laconia opens through the windows of an imaginative desktop and its eco-operating system.
 
-<!-- ![Laconian Avatars](images/laconian-avatars.png) -->
+<img width="1438" height="969" alt="2026-02-23_12-12-59" src="https://github.com/user-attachments/assets/2e8f8e96-74f1-44c0-a241-273dba4038c1" />
 
 ### Orpheus
 
 In the myth of Orpheus, the gaze has tremendous pleasures and consequences. The poet enters the underworld to find Eurydice and bring her back to life. She is released on the condition that he does not look at her until they are above the ground. Driven by doubt and longing, he turns his head, sees her for a second, and sends her back.
 
-<!-- ![Orpheus](images/orpheus.png) -->
+<img width="2213" height="814" alt="2026-03-12_20-55-43" src="https://github.com/user-attachments/assets/ead10e21-cc6d-451e-a34b-36f0da7769ba" />
+
+
+
+
 
 ## Showing the work
 
