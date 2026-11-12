@@ -29,7 +29,8 @@ The work is equal parts a travelogue, a game, an exercise in digital storytellin
 
 Once inside [phersu.net](https://phersu.net), the homepage evokes a stratified landscape: sky, forest, water. From there, visible and invisible paths branch.
 
-<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/e695112b-d12e-4864-b6a5-750052e6b6dc" />
+<img width="1618" height="803" alt="2026-11-12_17-45-24" src="https://github.com/user-attachments/assets/dac95cc2-1e92-4db1-b06c-787e75ab6305" />
+
 
 Three of those paths:
 
@@ -106,6 +107,8 @@ A play with the information one can derive from official ways of proving identit
 ## The branches
 
 <img width="1334" height="942" alt="2026-02-18_17-20-29" src="https://github.com/user-attachments/assets/3f0b7131-075e-4be6-a325-3e110c445e54" />
+
+<img width="1213" height="641" alt="02f" src="https://github.com/user-attachments/assets/e695112b-d12e-4864-b6a5-750052e6b6dc" />
 
 
 ### Expanded Hours
